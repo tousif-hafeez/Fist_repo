@@ -1,2 +1,2 @@
-# Fist_repo
+# First_repo
 This is my first repository in github
